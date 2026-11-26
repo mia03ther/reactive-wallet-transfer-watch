@@ -107,7 +107,7 @@ I used **Codex, Claude Code, and Gemini Antigravity** as part of my personal dev
 
 ## Demo video
 
-The [English 90-second recording script](docs/demo-script.md) names each page to open. A video link will be added after recording and upload; no video has been published from this repository yet.
+[Watch the 2-minute-18-second demo video (MP4)](https://github.com/mia03ther/reactive-wallet-transfer-watch/releases/download/v0.1.0-demo/reactive-wallet-transfer-watch.mp4). The [public release page](https://github.com/mia03ther/reactive-wallet-transfer-watch/releases/tag/v0.1.0-demo) also contains the video file. The [English recording script](docs/demo-script.md) lists each page shown in the walkthrough.
 
 ## References
 
